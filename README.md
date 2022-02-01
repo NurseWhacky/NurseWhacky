@@ -1,5 +1,5 @@
 # Hi! I'm Alessandro 👋
-### Welcome to my GutHub Page :wink:
+### Welcome to my GitHub Page :wink:
 ### About me:
 
 ```
